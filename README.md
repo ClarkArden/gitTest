@@ -13,6 +13,10 @@
 1111
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 2222
 =======
 >>>>>>> parent of b6ead7a (add 2)
+=======
+2222
+>>>>>>> parent of 5bc7e93 (add 3)
